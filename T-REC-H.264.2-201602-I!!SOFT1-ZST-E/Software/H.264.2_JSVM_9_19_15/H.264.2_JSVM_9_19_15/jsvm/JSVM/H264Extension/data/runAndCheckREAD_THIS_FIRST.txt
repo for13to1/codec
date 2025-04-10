@@ -1,0 +1,6 @@
+Two files in this folder have been renamed to avoid having a
+"*.bat" filename extension, since this extension name is recognized
+as an executable file type.
+
+To use these files, rename the filename extensions from the form
+"*.bat_" to "*.bat".
